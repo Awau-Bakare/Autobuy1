@@ -179,12 +179,20 @@ select {
     margin-top: 5%;
 }
 
-.text{
-    /* position: relative;
-    left: 40%; */
-    /* align-items: center; */
-    align-content: center;
+.text1{
     text-align: center;
+    margin-top: -12%;
+}
+
+.text2{
+    text-align: center;
+}
+
+.text3{
+    text-align: center;
+    position: relative;
+    bottom: 50%;
+    /* margin-top: 30%; */
 }
 
 
