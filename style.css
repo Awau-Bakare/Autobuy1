@@ -208,4 +208,9 @@ select {
     grid-template-columns: repeat(3,1fr);
 }
 
+.toyota1 img{
+    width: 50%;
+    height: 50%;
+}
+
 
