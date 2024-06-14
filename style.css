@@ -194,5 +194,18 @@ select {
     bottom: 50%;
     /* margin-top: 30%; */
 }
+.listing{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    margin-top:  5%;
+    color: #002152;
+    margin-bottom: 5%;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
 
 
