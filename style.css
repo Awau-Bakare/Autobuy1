@@ -206,11 +206,43 @@ select {
 .grid{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    margin-left: 20%;
+    
 }
 
 .toyota1 img{
     width: 50%;
-    height: 50%;
+    height: 100%;
 }
+
+.toyota2 img{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota3 img{
+    width: 50%;
+    height: 100%;
+}
+
+
+.toyota4 img{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota5 img{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota6 img{
+    width: 50%;
+    height: 100%;
+}
+
+
+
 
 
