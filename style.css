@@ -203,14 +203,14 @@ select {
     margin-bottom: 5%;
 }
 
-.grid{
+/* .grid{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     align-items: center;
     margin-left: 20%;
     
-}
-
+} */
+/* 
 .toyota1 img{
     width: 50%;
     height: 100%;
@@ -240,7 +240,7 @@ select {
 .toyota6 img{
     width: 50%;
     height: 100%;
-}
+} */
 
 .Categories{
     text-align: center;
@@ -252,13 +252,46 @@ select {
 
 }
 
-.images{
+.grid2{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    /* align-items: center; */
-    /* margin-left: 20%; */
-
+    
+    
 }
+
+.toyota-image1{
+    width: 20%;
+    height: 10%;
+}
+
+.toyota-image2{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota-image3{
+    width: 50%;
+    height: 100%;
+}
+
+
+.toyota-image4{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota-image5{
+    width: 50%;
+    height: 100%;
+}
+
+.toyota-image6{
+    width: 50%;
+    height: 100%;
+}
+
+
+
 
 
 
