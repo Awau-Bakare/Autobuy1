@@ -222,42 +222,23 @@ select {
     margin-left: 10%;
     margin-right: 10%;
     
+    
 }
 
 /* Car Listing Styling (image styling) */
 
+.toyota1{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
 .toyota1 img{
     width: 100%;
     height: 120%;
+
 }
-
-.toyota2 img{
-    width: 100%;
-    height: 120%;
-}
-
-.toyota3 img{
-    width: 100%;
-    height: 80%;
-}
-
-
-.toyota4 img{
-    width: 50%;
-    height: 100%;
-}
-
-.toyota5 img{
-    width: 50%;
-    height: 100%;
-}
-
-.toyota6 img{
-    width: 50%;
-    height: 100%;
-}
-
-/* Car information styling */
 
 .toyota1 h1{
     font-size: 30px;
@@ -284,6 +265,22 @@ select {
     font-family: "Poppins", sans-serif;
     margin-left: 65%;
     font-weight: bold;
+}
+
+
+
+/* toyota 2 */
+
+.toyota2{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.toyota2 img{
+    width: 100%;
+    height: 120%;
 }
 
 
@@ -314,6 +311,21 @@ select {
     font-weight: bold;
 }
 
+/* toyota3 */
+
+
+.toyota3{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.toyota3 img{
+    width: 100%;
+    height: 120%;
+}
+
 .toyota3 h1{
     font-size: 30px;
     font-family: "Poppins", sans-serif;
@@ -341,6 +353,19 @@ select {
     font-weight: bold;
 }
 
+/* toyota4 */
+
+.toyota4{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.toyota4 img{
+    width: 100%;
+    height: 120%;
+}
 
 .toyota4 h1{
     font-size: 30px;
@@ -369,6 +394,25 @@ select {
     font-weight: bold;
 }
 
+/* toyota 5 */
+
+
+
+.toyota5{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.toyota5 img{
+    width: 100%;
+    height: 120%;
+}
+
+
+
+
 .toyota5 h1{
     font-size: 30px;
     font-family: "Poppins", sans-serif;
@@ -395,6 +439,24 @@ select {
     margin-left: 65%;
     font-weight: bold;
 }
+
+
+/* toyota6 */
+
+
+.toyota6{
+    
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+
+.toyota6 img{
+    width: 100%;
+    height: 120%;
+}
+
 
 .toyota6 h1{
     font-size: 30px;
@@ -423,83 +485,7 @@ select {
     font-weight: bold;
 }
 
-
-.toyota h1{
-    font-size: 30px;
-    font-family: "Poppins", sans-serif;
-    margin-top: 5%;
-    margin-bottom: 3%;
-    
-}
-
-.toyota2 p{
-    font-size: 12px;
-    font-family: "Poppins", sans-serif;
-    margin-bottom: 15px;
-}
-
-.content-list{
-    margin-top: 1%;
-    font-family: "Poppins", sans-serif;
-    
-}
-
-.Veiw{
-    font-size: 22px;
-    font-family: "Poppins", sans-serif;
-    margin-left: 65%;
-    font-weight: bold;
-}
-
-
-
-
-/* .toyota2 h1{
-    font-size: 15px;
-    justify-content: right;
-}
-
-.toyota2 p{
-    font-size: 8px;
-}
-
-.toyota3 h1{
-    font-size: 15px;
-    justify-content: right;
-}
-
-.toyota3 p{
-    font-size: 8px;
-}
-
-.toyota4 h1{
-    font-size: 15px;
-    justify-content: right;
-}
-
-.toyota4 p{
-    font-size: 8px;
-}
-
-.toyota5 h1{
-    font-size: 15px;
-    justify-content: right;
-}
-
-.toyota5 p{
-    font-size: 8px;
-}
-
-.toyota6 h1{
-    font-size: 15px;
-    justify-content: right;
-}
-
-.toyota p{
-    font-size: 8px;
-} */
-
-
+/*  Categories */
 
 .Categories{
     text-align: center;
