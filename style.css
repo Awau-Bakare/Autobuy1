@@ -448,7 +448,7 @@ select {
     
     border-radius: 5px;
     padding: 5px;
-    box-shadow: 0 0px 10px rgb(0, 0, 0)`    1111111111
+    box-shadow: 0 0px 10px rgb(0, 0, 0);
 }
 
 
@@ -484,6 +484,14 @@ select {
     margin-left: 65%;
     font-weight: bold;
 }
+
+
+
+
+
+
+
+
 
 /*  Categories */
 
