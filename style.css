@@ -178,6 +178,7 @@ select {
 .car-logo{
     display: flex;
     align-items: center;
+    justify-content: center;
     margin: 5%;
     margin-top: -2%;
     
@@ -189,19 +190,38 @@ select {
 
 .text1{
     text-align: center;
+    justify-content: center;
     margin-top: -12%;
 }
 
 .text2{
     text-align: center;
+    justify-content: center;
 }
 
 .text3{
     text-align: center;
+    justify-content: center;
     position: relative;
-    bottom: 50%;
-    /* margin-top: 30%; */
+    top: 40px; 
 }
+
+.text4{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 40px;
+}
+
+.text5{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    
+}
+
+
 
 
 /* Car listing Styling */
@@ -515,38 +535,77 @@ select {
        
 }
 
-.toyota-image1 img{
-    width: 50%;
-    height: 100%;
+.box1{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
 }
 
-.toyota-image2 img{
-    width: 50%;
-    height: 100%;
+.box1 img{
+    width: 100%;
+    height: 120%;
 }
 
-.toyota-image3 img{
-    width: 50%;
-    height: 100%;
+.box2{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
 }
 
-
-.toyota-image4 img{
-    width: 50%;
-    height: 100%;
+.box2 img{
+    width: 100%;
+    height: 120%;
 }
 
-.toyota-image5 img{
-    width: 50%;
-    height: 100%;
+.box3{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
 }
 
-.toyota-image6 img{
-    width: 50%;
-    height: 100%;
+.box3 img{
+    width: 100%;
+    height: 120%;
 }
 
+.box4{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
 
+.box4 img{
+    width: 100%;
+    height: 120%;
+}
+
+.box5{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.box5 img{
+    width: 100%;
+    height: 120%;
+}
+
+.box6{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0)
+}
+
+.box6 img{
+    width: 100%;
+    height: 120%;
+}
 
 
 
