@@ -6,8 +6,10 @@
 
 /* Nav bar styling */
 
+
 .first-page{
     width: 100%;
+    
     
 }
 
@@ -17,7 +19,7 @@
     align-items: center;
     align-content: center;
     width: 100%;
-    padding: 10px;
+    padding: 20px;
     background-color: white;
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -25,8 +27,8 @@
 }
 
 .logo{
-    margin-left: 5%;
-    font-size: 12px;
+    margin-left: 4%;
+    font-size: larger;
     font-family: poppins;
     font-weight: bolder;
 
@@ -37,7 +39,7 @@
     justify-content: space-between;
     align-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 30px;
 
 }
 
@@ -65,7 +67,7 @@
   font-family: "Open Sans", sans-serif;
   font-size: 12px;
   position: relative;
-  left: 12%;
+  left: 14%;
   
 }
 
@@ -119,14 +121,14 @@
 }
 
 .fill-up{
+    font-size: 15px;
     display: flex;
-    width: 95%;
+    width: 90%;
     padding: 20px 50px;
     background-color: aliceblue;
     color: black;
     margin-top: 5%;
     border-radius: 5%;
-    position: relative;
     gap: 5%;
     text-align: justify;
     font-family: "Poppins", sans-serif;
@@ -741,11 +743,10 @@ select {
 
 /* footer */
 
-section .footer{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
+.footer{
+    display: flex;
     justify-content: space-between;
-    gap: 10px;
+    gap: 100px;
     margin-top: 20%;
     padding: 3% 5% 15%;
     background-color: #002152;
@@ -766,6 +767,34 @@ section .footer{
     padding: 1% 30%;
     border-radius: 6px;
 }
+
+.down-footer{
+    display: flex;
+    margin-top: -7%;
+}
+
+.car{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 5%;
+
+
+}
+
+.social{
+    position: relative;
+    left: 55%;
+    
+}
+
+.social a{
+    font-size: xx-large;
+    padding: 20px;
+    
+}
+
+
 
 
 
