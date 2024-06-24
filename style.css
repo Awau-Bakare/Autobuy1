@@ -8,7 +8,7 @@
 
 .first-page{
     width: 100%;
-    /* background-image: ; */
+    
 }
 
 .nav-bar{
@@ -32,39 +32,28 @@
 
 }
 
-.menu-bar{
+.menu-bar .link{
     display: flex;
     justify-content: space-between;
     align-content: center;
     align-items: center;
-    /* padding: 0px 10px; */
-    /* gap: 2rem; */
+    gap: 60px;
 
 }
 
-.link{
-    display: inline-block;
-    gap: 20px;
-}
 
 .link li{
-    display: inline-block;
     list-style: none;
-    text-decoration: none;
-    /* width: 100%;    */
-   
+    text-decoration: none; 
 }
 
 .link li a{
-    display: inline-block;
-    justify-content: center;
     font-size: 14px;
     font-family: "Poppins", sans-serif;
     text-decoration: none;
     align-content: center;
     color: black;
-    gap: 5rem;
-    /* padding-left: 3%; */
+
    
 }
 
@@ -76,7 +65,7 @@
   font-family: "Open Sans", sans-serif;
   font-size: 12px;
   position: relative;
-  left: 17%;
+  left: 12%;
   
 }
 
@@ -751,13 +740,51 @@ select {
 
 /* footer */
 
-.footer{
+section .footer{
     display: flex;
     justify-content: space-between;
+    gap: 100px;
     margin-top: 20%;
     padding: 15%;
     background-color: #002152;
+    position: relative;
 }
+
+/* .navigation{
+    position: relative;
+    right: 10%;
+    margin-top: -15%;
+   
+}
+
+.about{
+    margin-top: -15%;
+       
+}
+
+.feature{
+    position: relative;
+    left: 10%;
+    margin-top: -15%;
+    gap: 40px; 
+
+} */
+
+
+
+/* .subcribe h1{
+    float: right;
+    margin-top: -20%;
+    margin-left: 70%;
+}
+.subcribe input{
+    float: right;
+}
+
+.subcribe p{
+    margin-top: -10px;
+    margin-left: 50%;
+} */
 
 
 
