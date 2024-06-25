@@ -967,6 +967,58 @@ select {
     margin: 5px;
     
 }
+
+
+.text1{
+    text-align: center;
+    justify-content: center;
+    margin-top: -12%;
+}
+
+
+
+.text3{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 1%; 
+}
+
+.text4{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 5%;
+}
+
+.text5{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: -px;
+    
+}
+
+
+
+
+.toyota1{
+    margin: 5px;
+    margin-bottom: 20%;
+    border-radius: 5px;
+    box-shadow: 0 0px 10px wheat
+    
+}
+
+.toyota2{
+    margin-bottom: 20%;
+
+}
+
+
+
+
+
     
 
 
