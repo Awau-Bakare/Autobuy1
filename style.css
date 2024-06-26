@@ -771,6 +771,7 @@ select {
 .down-footer{
     display: flex;
     margin-top: -7%;
+    margin-top: 30%;
 }
 
 .car{
@@ -784,6 +785,7 @@ select {
 .social{
     position: relative;
     left: 55%;
+    margin-top: 30%;
     
 }
 
@@ -792,6 +794,11 @@ select {
     padding: 20px;
     
 }
+
+.fa-facebook{color: blue;}
+.fa-instagram{color: red;}
+.fa-linkedin{color: blue;}
+.fa-twitter{color: blue;}
 
 .display-on-mobile{
     display: none;
@@ -1075,6 +1082,9 @@ select {
 }
 
 .fa-facebook{color: blue;}
+.fa-instagram{color: red;}
+.fa-linkedin{color: blue;}
+.fa-twitter{color: blue;}
 
 
 .service {
