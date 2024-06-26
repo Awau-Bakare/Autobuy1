@@ -1041,27 +1041,12 @@ select {
 .footer{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    gap: 100px;
-    margin-top: 20%;
-    padding: 3% 5% 15%;
-    background-color: #002152;
-    color: white;
-    line-height: 35px;
       
 }
 
-.service h1{
-    width: 100px;
-}
-
-.subcribe{
-    text-align: right;
-}
-
 .subcribe input{
-    padding: 1% 30%;
-    border-radius: 6px;
+    padding: 1% 20%;
+    
 }
 
 .down-footer{
@@ -1072,27 +1057,31 @@ select {
 .car{
     color: white;
     font-weight: bolder;
-    font-size: xx-large;
+    font-size: 15px;
     margin-left: 5%;
 
 }
 
 .social{
-
     position: relative;
-    left: 55%;
+    left: 35%;
     
 }
 
 .social a{
-    font-size: 100;
-    padding: 20px;
+    font-size: 15px;
+    padding: 7px;
     
 }
 
-.display-on-mobile{
-    display: none;
+.fa-facebook{color: blue;}
+
+
+.service {
+   margin-left: 70%;
+   margin-top: -90%;
 }
+
 
 
 
