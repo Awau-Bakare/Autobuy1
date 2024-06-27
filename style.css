@@ -771,7 +771,6 @@ select {
 .down-footer{
     display: flex;
     margin-top: -7%;
-    margin-top: 30%;
 }
 
 .car{
@@ -785,7 +784,6 @@ select {
 .social{
     position: relative;
     left: 55%;
-    margin-top: 30%;
     
 }
 
@@ -951,6 +949,8 @@ select {
 }
 
 
+
+
 .listing{
     text-align: center;
     font-size: 20px;
@@ -961,7 +961,7 @@ select {
 }
 
 .toyota1 h1{
-    font-size: 27px;
+    font-size: 25px;
     font-family: "Poppins", sans-serif;
     margin-top: 5%;
     color: #002152;
@@ -969,7 +969,39 @@ select {
     
 }
 
+.toyota2 h1{
+    font-size: 25px;
+   
+}
 
+.toyota3 h1{
+    font-size: 25px;
+   
+}
+.toyota4 h1{
+    font-size: 25px;
+   
+}
+
+.toyota5 h1{
+    font-size: 25px;
+   
+}
+
+.toyota6 h1{
+    font-size: 25px;
+   
+}
+
+.view p{
+    margin-left: 65%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #002152;
+    font-weight: 200;
+    font-family: "Poppins", sans-serif;
+
+}
 .text1{
     text-align: center;
     justify-content: center;
